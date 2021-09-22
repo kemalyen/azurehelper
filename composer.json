@@ -1,0 +1,18 @@
+{
+    "name": "gazatem/phpfunc",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+          "Gazatem\\Phpfunc\\": "src/"
+        }
+      },
+    "authors": [
+        {
+            "name": "Kemal Yenilmez",
+            "email": "kemalyen@gmail.com"
+        }
+    ],
+    "require": {}
+}
